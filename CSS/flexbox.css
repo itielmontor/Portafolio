@@ -1,0 +1,26 @@
+.headerPrincipal .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.headerPrincipal-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rodapePrincipal-navMap-list{
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    flex-wrap: wrap;
+}
+.footerRedes .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 3rem;
+}
+.logos{
+    justify-content: space-between;
+    list-style: none;
+}

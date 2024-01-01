@@ -25,7 +25,7 @@
 	text-decoration: none;
 	transition: .5s;
 }
-.rodapePrincipal-navMap-link {
+.Principal-navMap-link {
 	text-decoration: none;
 	color: #666565;
 	margin-top: 10px;
@@ -53,6 +53,18 @@
 	height: 100px;
 	width: 100px;
 	border-radius: 100%;
+}
+
+.imagePerfilAbout{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+}
+
+.imageProyect{
+	height: 400px;
+	width: 400px;
+	border-radius: 20%;
 }
 
 .logos{

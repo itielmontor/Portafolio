@@ -54,7 +54,11 @@
 	width: 100px;
 	border-radius: 100%;
 }
-
+.imageProyect{
+	height: 400px;
+	width: 400px;
+	border-radius: 20%;
+}
 .logos{
     height: 100px;
     width: 100px;

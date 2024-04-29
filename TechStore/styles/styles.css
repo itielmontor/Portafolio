@@ -132,6 +132,11 @@ nav ul li:last-child {
     width: 250px;
 }
 
+.miembros{
+    height: 250px;
+    width: 250px;
+}
+
 /* Estilos adicionales para la barra de navegación en dispositivos móviles */
 @media screen and (max-width: 768px) {
     nav ul {

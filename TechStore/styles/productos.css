@@ -1,0 +1,11 @@
+/* Estilos específicos para la página de productos */
+#productos {
+    padding: 2rem;
+}
+
+#productos .producto {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}

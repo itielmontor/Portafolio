@@ -1,0 +1,11 @@
+/* Estilos específicos para la página del carrito */
+#carrito {
+    padding: 2rem;
+}
+
+#carrito .producto-en-carrito {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
